@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Django-Celery-Task-Manager
 
 # Running the Project
@@ -70,3 +71,6 @@ pipenv run celery -A SelteqTask worker -l info
 ## Schedule Task:
 
 Use the /api/create_task/ endpoint to schedule a task with a specific time.
+=======
+# Django-Celery-Task-Manager
+>>>>>>> 5049e9a (Initial commit)
